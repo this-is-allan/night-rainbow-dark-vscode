@@ -4,7 +4,7 @@
     "description": "Take a trip in the night rainbow!",
     "publisher": "this-is-allan",
     "version": "1.1.0",
-    "icon": "./icons/night-rainbow-vsc-icon.png",
+    "icon": "icons/night-rainbow-vsc-icon.png",
     "engines": {
         "vscode": "^1.61.0"
     },
@@ -25,7 +25,7 @@
             {
                 "label": "Night Rainbow",
                 "uiTheme": "vs-dark",
-                "path": "./themes/night-rainbow-color-theme.json"
+                "path": "themes/night-rainbow-color-theme.json"
             }
         ]
     }
