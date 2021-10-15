@@ -1,0 +1,32 @@
+{
+    "name": "night-rainbow",
+    "displayName": "Night Rainbow",
+    "description": "Take a trip in the night rainbow!",
+    "publisher": "this-is-allan",
+    "version": "1.1.0",
+    "icon": "./icons/night-rainbow-vsc-icon.png",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "author": {
+        "name": "Allan Carlos",
+        "email": "allancarlosdeveloper@gmail.com",
+        "url": "https://www.linkedin.com/in/allancarlos/"
+    },
+    "repository": {
+        "url": "https://github.com/this-is-allan/night-rainbow-dark-vscode.git",
+        "type": "git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night Rainbow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/night-rainbow-color-theme.json"
+            }
+        ]
+    }
+}
