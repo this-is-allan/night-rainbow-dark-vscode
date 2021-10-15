@@ -16,4 +16,4 @@ Install the theme, apply it and enjoy!
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@istevkovski](https://www.linkedin.com/in/allancarlos/) - Creator of Night Rainbow
+- [@allancarlos](https://www.linkedin.com/in/allancarlos/) - Creator of Night Rainbow
