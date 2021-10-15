@@ -6,7 +6,7 @@
 <h2 align="center">Night Rainbow</h2>
 
 <div align="center">
-	<img src="./icons/night-rainbow-vsc-icon.png">
+	<img src="icons/night-rainbow-vsc-icon.png">
 </div>
 
 ## 🎈 Usage <a name="usage"></a>
