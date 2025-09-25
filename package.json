@@ -3,7 +3,7 @@
     "displayName": "Night Rainbow",
     "description": "A vibrant neon theme with dark background for multiple programming languages",
     "publisher": "allan-carlos",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "icon": "icons/night-rainbow-vsc-icon.png",
     "engines": {
         "vscode": "^1.61.0"
