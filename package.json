@@ -31,6 +31,16 @@
                 "label": "Night Rainbow - Darker",
                 "uiTheme": "vs-dark",
                 "path": "themes/night-rainbow-darker-theme.json"
+            },
+            {
+                "label": "Night Rainbow - Red",
+                "uiTheme": "vs-dark",
+                "path": "themes/night-rainbow-red-theme.json"
+            },
+            {
+                "label": "Night Rainbow - Orange",
+                "uiTheme": "vs-dark",
+                "path": "themes/night-rainbow-orange-theme.json"
             }
         ]
     },
