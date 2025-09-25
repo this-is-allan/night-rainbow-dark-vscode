@@ -41,6 +41,11 @@
                 "label": "Night Rainbow - Orange",
                 "uiTheme": "vs-dark",
                 "path": "themes/night-rainbow-orange-theme.json"
+            },
+            {
+                "label": "Night Rainbow - Purple Haze",
+                "uiTheme": "vs-dark",
+                "path": "themes/night-rainbow-purple-haze-theme.json"
             }
         ]
     },
